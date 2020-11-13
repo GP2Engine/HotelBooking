@@ -1,6 +1,6 @@
 # HotelBooking
 
-A dynamic website for Hotel Booking and Hotel Management based on [mrzulkarnine's](https://github.com/mrzulkarnine) initial project.
+A dynamic website for Hotel Booking and Hotel Management based on [mrzulkarnine's](https://github.com/mrzulkarnine) initial project and worked on in collaboration with [billz96](https://github.com/billz96).
 
 The HotelBooking website maintains the vast majority of the initial functionality and features changes such as:
 
